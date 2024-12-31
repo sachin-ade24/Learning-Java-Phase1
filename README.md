@@ -1,2 +1,2 @@
 # Learning-Java-Phase1
-Learning Java
+Learning Java - created for learning purpose
